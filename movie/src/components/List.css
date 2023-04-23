@@ -1,0 +1,13 @@
+.items{
+    list-style: none;
+
+}
+ul{
+    display: flex;
+}
+ul :hover{
+    background-image: linear-gradient(black, grey);
+}
+p:hover{
+    background-color: aqua;
+}
